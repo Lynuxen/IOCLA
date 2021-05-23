@@ -1,0 +1,5 @@
+KIRJAN DIMOVSKI 322CB
+
+I did the homework using preorder travel of the tree, rewriting the values
+directly and applying operations between children. At the end, the result is
+stored at the root of the tree i.e. first node.
